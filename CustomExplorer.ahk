@@ -1,7 +1,4 @@
-; Always On Top script
-; -------------------------------
-; Original: http://www.labnol.org/software/tutorials/keep-window-always-on-top/5213/
-; This version uses middle mouse click on the window titlebar instead of ctrl+space
+; Open Explorer in Downloads
 
 #NoEnv					; Recommended for performance and compatibility with future AutoHotkey releases.
 #NoTrayIcon				; Do not show tray icon
