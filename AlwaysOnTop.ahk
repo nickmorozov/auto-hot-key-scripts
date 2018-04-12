@@ -8,10 +8,6 @@
 #Warn					; Enable warnings to assist with detecting common errors.
 #SingleInstance force	; Determines whether a script is allowed to run again when it is already running.
 
-^SPACE::
-	Winset, AlwaysOnTop, Toggle, A
-Return
-
 MButton::
 	CoordMode, Mouse, Screen
 
